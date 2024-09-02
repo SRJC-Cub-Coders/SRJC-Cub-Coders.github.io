@@ -1,1 +1,1 @@
-# SRJC-Cub-Coders.github.io
+# Cub Coders Website
